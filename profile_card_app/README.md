@@ -1,16 +1,31 @@
 # profile_card_app
 
-A new Flutter project.
+a responsive profile card screen with dark/light mode.
 
-## Getting Started
+This marks the beginning of my Flutter development journey — starting with the essentials.
 
-This project is a starting point for a Flutter application.
+This wasn’t about building a full app, but mastering the foundations of UI composition:
 
-A few resources to get you started if this is your first Flutter project:
+Crafting a clean one-screen layout using Column, Row, Card, and spacing widgets
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Integrating custom fonts and local assets
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Implementing dark/light mode switching using ThemeData
+
+Structuring a responsive layout with minimalist design principles
+
+
+💡 Why this task matters:
+Even the simplest screens reveal a lot about your grasp of layout, theming, and user-centric design. I wanted to make sure I understand the core of Flutter's widget system before moving on to dynamic logic and navigation.
+
+🛠️ Tools & Concepts Used:
+
+Flutter (Dart)
+
+Stateless and Stateful widgets
+
+Theme switching
+
+Custom styling and asset management
+
+
