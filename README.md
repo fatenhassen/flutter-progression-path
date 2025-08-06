@@ -9,9 +9,13 @@ Each folder in this repository represents a self-contained task or mini-project 
 
 ## 📂 Completed Tasks & Projects
 
-| Folder Name         | Description                                        |
-|---------------------|----------------------------------------------------|
-| ProfileCardApp/   | A one-screen Flutter task to practice widget layout, dark/light theme, and styling fundamentals. |
+### 1. Profile Card App
+- 📁 [`/profile_card_app`](./profile_card_app)
+- A single-screen static profile card UI with light/dark theme support.
+
+### 2. Simple Calculator App
+- 📁 [`/simple_calculator_app`](./simple_calculator_app)
+- A basic interactive calculator that supports user input, state changes, and error handling.
 
 > New tasks will be added only as they are completed — one by one, 
 
