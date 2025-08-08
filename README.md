@@ -17,6 +17,10 @@ Each folder in this repository represents a self-contained task or mini-project 
 - 📁 [`/simple_calculator_app`](./simple_calculator_app)
 - A basic interactive calculator that supports user input, state changes, and error handling.
 
+### 3. To-Do List App (Persistent Storage)
+[View Project](./todo_list_app)  
+Description: A Flutter To-Do list with persistent storage using SharedPreferences. Supports CRUD, sorting, and dark mode.
+
 > New tasks will be added only as they are completed — one by one, 
 
 ---
