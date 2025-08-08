@@ -33,6 +33,19 @@ migrate_working_dir/
 .pub/
 /build/
 
+# Flutter
+build/
+.dart_tool/
+.packages
+.pub-cache/
+android/.gradle/
+ios/Pods/
+*.iml
+*.log
+*.tmp
+*.lock
+.idea/
+
 # Symbolication related
 app.*.symbols
 
