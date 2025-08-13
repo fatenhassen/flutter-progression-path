@@ -16,11 +16,18 @@ Each folder in this repository represents a self-contained task or mini-project 
 ### 2. Simple Calculator App
 - 📁 [`/simple_calculator_app`](./simple_calculator_app)
 - A basic interactive calculator that supports user input, state changes, and error handling.
+<<<<<<< HEAD
 
 ### 3. To-Do List App (Persistent Storage)
 [View Project](./todo_list_app)  
 Description: A Flutter To-Do list with persistent storage using SharedPreferences. Supports CRUD, sorting, and dark mode.
+=======
+>>>>>>> a1e30a0 (Add Task 2: Simple Calculator App with README and updated root README)
+---
 
+### 4. Weather App (API Integration)  
+[View Project](./weather_app)  
+Description: A Flutter app that fetches real-time weather data from a public API, displays key metrics, and handles errors gracefully.
 > New tasks will be added only as they are completed — one by one, 
 
 ---

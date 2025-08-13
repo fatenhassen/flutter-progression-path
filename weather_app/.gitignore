@@ -43,19 +43,3 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-<<<<<<< HEAD
-
-# Flutter
-build/
-.dart_tool/
-.packages
-.pub-cache/
-android/.gradle/
-ios/Pods/
-*.iml
-*.log
-*.tmp
-*.lock
-.idea/
-=======
->>>>>>> a1e30a0 (Add Task 2: Simple Calculator App with README and updated root README)
