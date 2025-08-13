@@ -1,16 +1,28 @@
-# to_dolist_app
+# Task 3: To-Do List App (Persistent Storage)
 
-A new Flutter project.
+## Overview
+A Flutter app allowing users to add, mark complete, and delete tasks with persistent data storage via SharedPreferences.
 
-## Getting Started
+## Features
+- Add tasks  
+- Mark tasks as complete  
+- Delete tasks  
+- Data persistence across app restarts  
+- Dark mode support  
+- Sort completed tasks to the bottom  
+- Clear all completed tasks  
+- Search functionality  
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- Flutter StatefulWidget  
+- SharedPreferences package  
+- ListView, TextField, Checkbox widgets  
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/170062eb-1341-441a-a112-284cb8c97c9f" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/bdcd7a20-59cf-4efa-b90f-c9c4fa0f437f" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Status
+✅ Completed
