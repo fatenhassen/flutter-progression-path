@@ -22,12 +22,20 @@ Each folder in this repository represents a self-contained task or mini-project 
 [View Project](./todo_list_app)  
 Description: A Flutter To-Do list with persistent storage using SharedPreferences. Supports CRUD, sorting, and dark mode.
 =======
+
 >>>>>>> a1e30a0 (Add Task 2: Simple Calculator App with README and updated root README)
 ---
 
 ### 4. Weather App (API Integration)  
 [View Project](./weather_app)  
 Description: A Flutter app that fetches real-time weather data from a public API, displays key metrics, and handles errors gracefully.
+
+---
+
+### 5. Notes App with Cloud Storage (Supabase)  
+[View Project](./notes_app)  
+Description: A multi-screen Flutter notes app with authentication and Supabase cloud storage. Supports adding, editing, and deleting notes with real-time data sync.
+
 > New tasks will be added only as they are completed — one by one, 
 
 ---
