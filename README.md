@@ -28,8 +28,15 @@ Each folder in this repository represents a self-contained task or mini-project 
 ---
 
 ### 5. Notes App with Cloud Storage (Supabase)  
-[View Project](./notes_app)  
+[View Project](./notes_app1)  
 Description: A multi-screen Flutter notes app with authentication and Supabase cloud storage. Supports adding, editing, and deleting notes with real-time data sync.
+
+---
+
+### 6. Catalog + Cart App (Riverpod + Local JSON)
+[View Project](./ccart_app)
+Description: A multi-screen e-commerce Flutter app using Riverpod for state management and SharedPreferences for local persistence. Features cart operations, search, filters, and light/dark theming.
+
 
 > New tasks will be added only as they are completed — one by one, 
 
